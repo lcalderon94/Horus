@@ -7,8 +7,8 @@ van dentro de la aplicación, así que en una mesa de juego no dependes de la co
 
 | | |
 |---|---|
-| **Android** | **[warorgan.apk](https://github.com/lcalderon94/Horus/releases/download/ultima/warorgan.apk)** |
-| **Windows** (64 bits) | **[warorgan-windows.zip](https://github.com/lcalderon94/Horus/releases/download/ultima/warorgan-windows.zip)** |
+| **Android** | **[horus.apk](https://github.com/lcalderon94/Horus/releases/download/ultima/horus.apk)** |
+| **Windows** (64 bits) | **[horus-windows.zip](https://github.com/lcalderon94/Horus/releases/download/ultima/horus-windows.zip)** |
 
 Estos enlaces no cambian nunca: siempre apuntan a la última versión.
 
@@ -19,7 +19,7 @@ encima y las listas guardadas se conservan.
 
 ### Windows
 
-Descomprime **la carpeta entera** y abre `warorgan.exe`. No hay instalador: es portátil, puedes
+Descomprime **la carpeta entera** y abre `horus.exe`. No hay instalador: es portátil, puedes
 dejarla donde quieras o llevarla en un pendrive.
 
 La primera vez Windows avisará de que no reconoce el programa, porque no está firmado con un
