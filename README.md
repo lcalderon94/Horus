@@ -1,4 +1,4 @@
-# Horus
+# Horus 
 
 Constructor de listas de **Warhammer 40.000** en español. Funciona **sin conexión**: los catálogos
 van dentro de la aplicación, así que en una mesa de juego no dependes de la cobertura.
